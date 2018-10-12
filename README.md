@@ -1,12 +1,17 @@
 # expire.js
 Prosty skrypt, który oznacza przeterminowane treści.
 
+## Czego potrzebuję?
+
+Skrypt korzysta z biblioteki JQuery, którą należy dołączyć w nagłówku HTML.
+
 ## Jak użyć?
 
 1. Umieść skrypt w nagłówku html:
 
 ```html
 <head>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://raw.githubusercontent.com/grabarz5/expire.js/master/src/v1/expire.js"></script>
 </head>
 ```
