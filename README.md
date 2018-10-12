@@ -7,7 +7,7 @@ Skrypt korzysta z biblioteki JQuery, którą należy dołączyć w nagłówku HT
 
 ## Jak użyć?
 
-1. Umieść skrypt w nagłówku html:
+1. Dołącz skrypt w nagłówku html:
 
 ```html
 <head>
@@ -16,7 +16,7 @@ Skrypt korzysta z biblioteki JQuery, którą należy dołączyć w nagłówku HT
 </head>
 ```
 
-2. Dodaj atrybut **expire** do elementu:
+2. Dodaj atrybut **expire** do dowolnego elementu z tekstem:
 
 ```html
 <p expire="2018-10-12 18:00:00">Witaj, świecie!</p>
