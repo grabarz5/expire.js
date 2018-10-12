@@ -1,5 +1,5 @@
 # expire.js
-Prosty skrypt, który przekreśla przeterminowane treści.
+Prosty skrypt, który oznacza przeterminowane treści.
 
 ## Jak użyć?
 
